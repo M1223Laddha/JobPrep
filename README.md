@@ -1,1 +1,1 @@
-# JobPrep
+# JobPrep App
