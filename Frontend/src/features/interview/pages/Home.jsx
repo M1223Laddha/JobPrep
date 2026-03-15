@@ -1,5 +1,5 @@
 import React, { useState, useRef } from "react";
-import "../style/home.scss";
+import "../style/Home.scss";
 import { useInterview } from "../hooks/useinterview.js";
 import { useNavigate } from "react-router";
 
